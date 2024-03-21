@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/tom%C3%A1s-funes-537943242/">Tomás Funes </a>👋 y te doy la bienvenida a mi perfil de GitHub</h1>
 </div>
 
-Aqui encontraras todos mis proyectos mas importantes realizados durante mi carrera de ingenieria
+📌Aqui encontraras todos mis proyectos mas importantes realizados durante mi carrera de ingenieria
 ## Sobre mi
 
 - ⭐ Estudiante avanzado de ingeniería en sistemas informáticos⭐ 
