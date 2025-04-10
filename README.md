@@ -5,11 +5,12 @@
 📌Aqui encontraras todos mis proyectos mas importantes realizados durante mi carrera de ingenieria
 ## Sobre mi
 
+- 👨‍🎓 Analista en sistemas recibido en diciembre 2024
 - ⭐ Estudiante avanzado de ingeniería en sistemas informáticos⭐ 
 - 💻 Desarrollo en C#.
 - 📊 Conocimientos en Microsoft Sql Server.
 - 📋 Nivel de inglés: B2 certificado por la universidad de Cambridge.
-- 👨‍🎓 A fines de 2024 recibire mi primer titulo como "Analista en Sistemas".
+
   
 
 
